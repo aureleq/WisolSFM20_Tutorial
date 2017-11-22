@@ -1,3 +1,6 @@
+# DEPRECATED
+# Check https://github.com/wisol-SFM/WSSFM20Rx_12x for latest updates
+#
 # Getting started with Wisol SFM20Rx EVK and gcc
 
 ## Introduction
